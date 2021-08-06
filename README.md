@@ -1,5 +1,6 @@
 # VisualProlog609
 [![Github All Releases](https://img.shields.io/github/downloads/MahBoiDeveloper/VisualProlog609/total.svg)](https://github.com/MahBoiDeveloper/VisualProlog609/releases)
+
 Данный репозиторий хранит принятые лабораторные работы по предмету "Методы Синтеза Оптимальных Проектных Решений" (МСОПР). Основная цель репозитория — накапливать базу проверенных задач, чтобы студентам было проще ориентироваться в нестандартных задачах.
 
 ## Как начать работать над проектом
